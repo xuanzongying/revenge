@@ -6,6 +6,6 @@ public class Demo1 {
         System.out.println("hello bess");
         System.out.println("hello Cara");
         System.out.println("hello hot-fix message");
-        System.out.println("hot-fix devil");
+        System.out.println("hot-fix devil message");
     }
 }
